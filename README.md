@@ -1,2 +1,3 @@
 # bio-ml-portfolio
-Bioinformatics and machine learning portfolio project
+
+This repository contains my portfolio of bioinformatics and machine learning projects.
